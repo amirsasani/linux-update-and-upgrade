@@ -29,9 +29,10 @@ don't forget to give me a STAR
 
 - [x] Ubuntu
 - [x] Manjaro
-- [ ] Raspbian
+- [x] Raspbian
 - [ ] Centos
-- [ ] Arch
+- [x] Arch
 - [ ] Fedora
+- [ ] Gentoo
 
 **help me to complete supporting distros**
