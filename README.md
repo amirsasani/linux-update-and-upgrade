@@ -18,7 +18,7 @@ sudo chmod a+rx /usr/local/bin/update-and-upgrade
 
 ## Usage
 
-to use this command you just need to type in your shell:
+to use this command you just need to type in your shell:  
 `update-and-upgrade`
 
 THATS IT :)
