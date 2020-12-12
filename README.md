@@ -24,3 +24,14 @@ to use this command you just need to type in your shell:
 THATS IT :)
 
 don't forget to give me a STAR
+
+## supporting distros
+
+- [x] Ubuntu
+- [x] Manjaro
+- [ ] Raspbian
+- [ ] Centos
+- [ ] Arch
+- [ ] Fedora
+
+**help me to complete supporting distros**
