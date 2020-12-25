@@ -35,6 +35,7 @@ echo -e "            Your distro is ${GREEN}${DISTRO}${NOCOLOR}"
 echo -e "${GREEN}--------------------------------------------${NOCOLOR}"
 
 if `isIn "$ARCH_BASED" "$DISTRO"` ; then
+    sudo pacman -Syyu --noconfirm;
     sudo pacman -Syu --noconfirm;
     sudo pacman -Rns $(pacman -Qdtq) --noconfirm;
     sudo pacman -Sc --noconfirm;
