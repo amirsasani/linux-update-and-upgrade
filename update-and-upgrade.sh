@@ -42,7 +42,7 @@ if `isIn "$ARCH_BASED" "$DISTRO"` ; then
 
 elif `isIn "$DEBIAN_BASED" "$DISTRO"` ; then
     sudo apt update -y;
-    sudo apt upgrade -y;
+    sudo apt upgrade --with-new-pkgs -y;
     sudo apt autoremove -y;
     sudo apt autoclean -y;
 
